@@ -27,11 +27,6 @@ h2 {
     font-size: 4rem;
 }
 
-h2.black {
-    color: black;
-    font-size: 6rem;
-}
-
 .text{
     color: blueviolet;
     line-height: 1rem;
