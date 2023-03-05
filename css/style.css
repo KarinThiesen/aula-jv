@@ -1,0 +1,41 @@
+body {
+    background-color: aqua;
+    font-size: 14px;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    height: 20vh;
+}
+
+main {
+    background-color: blueviolet;
+    color: white;
+    height: 70vh;
+}
+
+footer{
+    background-color: brown;
+    color: white;
+    height: 10vh;
+}
+
+h2 {
+    color: brown;
+    font-size: 4rem;
+}
+
+h2.black {
+    color: black;
+    font-size: 6rem;
+}
+
+.text{
+    color: blueviolet;
+    line-height: 1rem;
+    font-style: italic;
+    font-size: 1rem;
+}
+
