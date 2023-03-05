@@ -8,6 +8,18 @@ header {
     background-color: black;
     color: white;
     height: 20vh;
+    display: flex;
+}
+
+header .logo {
+border: 1px solid #fff;
+width: 20%;
+}
+
+header .menu{
+    border: 1px solid #fff;
+    width: 60%;
+    margin-left: 20%;
 }
 
 main {
